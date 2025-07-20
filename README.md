@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello World, me chamo **Luan**! <br> Desenvolvedor de software | Software developer
 
-<!--
-**SluanS/SluanS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estudante de técnico em análise e desenvolvimento de sistemas no Senac Campinas <br> 
 
-Here are some ideas to get you started:
+![Cloud image](https://media.tenor.com/vTXtbNVfimsAAAAj/gwo-gzlwong.gif)**Movido pelo amor ao aprendizado continuo, tecnologia, literatura e comunicação**![Cloud image](https://media.tenor.com/vTXtbNVfimsAAAAj/gwo-gzlwong.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Conhecimentos em:
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,git,github,mysql,sqlite&theme=light)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" heigh=50 width=50> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height = 50 width = 50>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height=50 width=50/>
+
