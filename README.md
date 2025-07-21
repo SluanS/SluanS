@@ -1,4 +1,4 @@
-# Hello World, me chamo **Luan**! <br> Desenvolvedor de software | Software developer
+# Hello World! <br> Me chamo **Luan**. <br> Desenvolvedor de software | Software developer
 
 ## Estudante de técnico em análise e desenvolvimento de sistemas no Senac Campinas <br> 
 
@@ -11,3 +11,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height = 50 width = 50>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height=50 width=50/>
 
+
+![snake gif](https://github.com/SluanS/SluanS/blob/output/github-snake-dark.svg)
