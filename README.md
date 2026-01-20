@@ -26,7 +26,8 @@
 
 ### Contatos:
 
-<a target="_blank" href="https://www.linkedin.com/in/luan-silva-developer/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height=50px></a>
+<a href="https://www.linkedin.com/in/luan-silva-developer/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height=50px></a>
+<a href="mailto:dev.luan29@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="45px"></a>
           
 
 ![snake gif](https://github.com/SluanS/SluanS/blob/output/github-snake-dark.svg)
